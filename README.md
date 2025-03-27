@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Sunila Madugula!
+### 🚀 Senior Software Engineer | Full-Stack Developer 
 
-<!--
-**sunila35/sunila35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: **Airlines Booking Application**
+- 🌱 I’m currently learning: **Advanced Angular 16+ & .NET Core APIs**
+- 💬 Ask me about: **Angular, .NET Core, SQL, Django**
+- ⚡ Fun fact: **I turn coffee into code! ☕💻**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 **Experience:**
+✅ **SpiceJet Airlines (Senior Software Engineer)** – Developed a web-based flight reservation system with robust search, booking, and management capabilities using **C#, ASP.NET, Entity Framework Core, SQL, Angular, and JavaScript**.  
+
+✅ **First Light Federal Credit Union (Senior Software Engineer)** – Engineered a Power Apps-driven workflow automation solution with **SharePoint and Power Automate**, improving operational efficiency and reducing manual effort.  
+
+✅ **Multilingual Chatbots & DMS (Software Engineer Intern)** – Developed multilingual chatbots (English, Japanese, Korean) using **Power Virtual Agents** and contributed to Go-Live sessions.  
+
+---
+
+### 🛠️ **Tech Stack:**
+- ⚙️ **Frameworks:** .NET Core, ASP.NET MVC, EF Core  
+- 💻 **Languages:** C#, TypeScript, HTML, CSS, LINQ  
+- 🛢️ **Database:** MySQL, MS SQL  
+- 🌐 **Frontend:** Angular, Bootstrap, RxJS  
+- 🔥 **Web Services:** RESTful Web Services  
+- 🚀 **Tools & Platforms:** GitHub, Azure, Power Platform, CI/CD  
